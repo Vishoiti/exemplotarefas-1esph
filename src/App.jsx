@@ -1,9 +1,12 @@
-import Contador from './components/Contador'
+// import Contador from './components/Contador'
+
+import Tarefas from "./components/Tarefas"
 
 const App = () => {
   return (
     <>
-      <Contador/>
+    {/* Contador*/}
+      <Tarefas/>
     </>
   )
 }
